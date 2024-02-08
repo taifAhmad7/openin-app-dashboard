@@ -91,7 +91,7 @@ export default function Login() {
           <div className="mt-4">
             <Link href="/dashboard">
               <button
-                className="bg-indigo-500 text-slate-100 font-bold px-28 py-2 rounded-lg text-sm"
+                className="bg-indigo-500 hover:bg-indigo-700 text-slate-100 font-bold px-28 py-2 rounded-lg text-sm"
                 type="submit"
               >
                 Sign in
